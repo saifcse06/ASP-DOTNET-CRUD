@@ -1,0 +1,273 @@
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll.config
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.pdb
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\EntityFramework.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Owin.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\WebGrease.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.pdb
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\EntityFramework.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.dll
+E:\Nazrul\Practice Project\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.pdb
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll.config
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.pdb
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\EntityFramework.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Owin.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\WebGrease.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.pdb
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\EntityFramework.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.dll
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.pdb
+E:\Nazrul\Practice Project\CustomizeBracketPlusProjectByNazrul\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.csprojResolveAssemblyReference.cache
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll.config
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.pdb
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\EntityFramework.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Owin.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\WebGrease.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.pdb
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\EntityFramework.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TBS\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.dll
+D:\TBS\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.pdb
+D:\TBS\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.csprojResolveAssemblyReference.cache
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll.config
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.pdb
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\EntityFramework.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Owin.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\WebGrease.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.pdb
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\EntityFramework.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.csprojResolveAssemblyReference.cache
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.dll
+D:\TBS\Salek vai\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.pdb
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll.config
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\bracketplusMVC.pdb
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\EntityFramework.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Web.Infrastructure.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Owin.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\WebGrease.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Helpers.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Mvc.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Optimization.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.Razor.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Deployment.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\System.Web.WebPages.Razor.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Newtonsoft.Json.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Antlr3.Runtime.pdb
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\EntityFramework.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\EntityFramework.SqlServer.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Core.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Facebook.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Cookies.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.OAuth.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Google.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.Twitter.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.dll
+G:\C# Projects\Salek vai\Salek vai\bracketplusMVC\bracketplusMVC\obj\Debug\bracketplusMVC.pdb

@@ -1,0 +1,79 @@
+﻿
+@model IEnumerable<bracketplusMVC.Models.BusinessEntities>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<div class="br-pagetitle">
+    <i class="fa fa-cog" style="font-size: 40px; color: #91a289;"></i>
+    <div>
+        <h4>Bussiness Entities</h4>
+    </div>
+</div><!-- d-flex -->
+<div class="br-pagebody">
+    <div class="br-section-wrapper" style="padding: 31px;">
+        <p style="text-align: right; color: #228b22;font-size: 20px; font-weight: bold; ">
+            @Html.ActionLink("Add New", "Create")
+        </p>
+
+        <div class="bd bd-gray-300 rounded table-responsive">
+            <table class="table mg-b-0">
+                <thead>
+                    <tr>
+                        <th>
+                           Join Date
+                        </th>
+                        <th>
+                            Code
+                        </th>
+                        <th>
+                             Name
+                        </th>
+                        <th>
+                            Markup Plan
+                        </th>
+                        <th>
+                            Mobile 
+                        </th>
+                        <th>Email</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                @foreach (var item in Model)
+                {
+                    <tbody>
+                        <tr>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CreatedOnUtc)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Code)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                               
+                            </td>
+                            <td>
+                                @*@Html.DisplayFor(modelItem => item.Department.DepartmentName)*@
+
+                                @Html.DisplayFor(modelItem => item.Mobile)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Email)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.BusinessId }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.BusinessId })
+                            </td>
+                        </tr>
+                    </tbody>
+                }
+            </table>
+        </div><!-- bd -->
+    </div><!-- br-section-wrapper -->
+</div><!-- br-pagebody -->

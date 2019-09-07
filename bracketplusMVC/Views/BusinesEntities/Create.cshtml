@@ -1,0 +1,120 @@
+﻿@model bracketplusMVC.Models.ViewModel.BusinessEntitiesVM
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<div class="br-pagetitle">
+    <i class="fa fa-cog" style="font-size: 40px; color: #91a289;"></i>
+    <div>
+        <h4>Bussiness Entities</h4>
+    </div>
+</div><!-- d-flex -->
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="br-pagebody">
+        <div class="br-section-wrapper" style="padding: 31px;">
+            <div class="form-layout form-layout-1">
+                <div class="row mg-b-25">
+
+                    
+                    
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="form-control-label">ID/Code: <span class="tx-danger">*</span></label>
+                                    @Html.TextBoxFor(u => u.Code, new { id = "Code", @class = "form-control", placeholder = "Insert Code", Required = "required" })
+                                </div>
+                            </div><!-- col-4 -->
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="form-control-label">Name: <span class="tx-danger">*</span></label>
+                                    @Html.TextBoxFor(u => u.Name, new { id = "Name", @class = "form-control", placeholder = "Name", Required = "required" })
+                                </div>
+
+                            </div><!-- col-4 -->
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="form-control-label">Markup Plane: <span class="tx-danger">*</span></label>
+                                    @Html.TextBoxFor(u => u.Name, new { id = "MotherName", @class = "form-control", placeholder = "Mother Name", Required = "required" })
+                                </div>
+                            </div><!-- col-4 -->
+                            <div class="col-lg-6">
+
+                                <div class="form-group">
+                                    <label class="form-control-label">Email : </label>
+                                    @Html.TextBoxFor(u => u.Email, new { id = "Email", @class = "form-control", placeholder = "Email" })
+                                </div>
+
+                            </div><!-- col-8 -->
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="form-control-label">Mobile : </label>
+                                    @Html.TextBoxFor(u => u.Mobile, new { id = "Mobile", @class = "form-control", placeholder = "Mobile" })
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="form-control-label">Phone : </label>
+                                    @Html.TextBoxFor(u => u.Phone, new { id = "Phone", @class = "form-control", placeholder = "Phone" })
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="form-control-label">Address : </label>
+                                    @Html.TextBoxFor(u => u.Phone, new { id = "Phone", @class = "form-control", placeholder = "Phone" })
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="form-control-label">City : </label>
+                                    @Html.TextBoxFor(u => u.City, new { id = "City", @class = "form-control", placeholder = "City" })
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="form-control-label">Sate: </label>
+                                    @Html.TextBoxFor(u => u.State, new { id = "State", @class = "form-control", placeholder = "State" })
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="form-group">
+                                    <label class="form-control-label">IP/Post Code:</label>
+                                    @Html.TextBoxFor(u => u.Zip, new { id = "Zip", @class = "form-control", placeholder = "Zip" })
+                                </div>
+                            </div>
+                            @*<div class="col-lg-4">
+                                    <div class="form-group mg-b-10-force">
+                                        <label class="form-control-label">Department: <span class="tx-danger">*</span></label>
+
+                                    </div>
+                                </div> col-4*@
+
+
+                       
+                   
+
+
+                 
+
+                </div>
+
+
+
+
+
+                <div class="form-layout-footer">
+                    <button type="submit" class="btn btn-info">Submit Form</button>
+                    <a class="btn btn-secondary" href="~/Student/Index">Cancel</a>
+                </div><!-- form-layout-footer -->
+            </div><!-- form-layout -->
+        </div><!-- br-section-wrapper -->
+
+    </div><!-- br-pagebody -->
+}
+
+
+
+
+
